@@ -1,1 +1,1 @@
-# tomascgarcia.github.io
+# Astro Starter Kit: Minimal
